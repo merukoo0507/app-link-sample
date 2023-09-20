@@ -5,21 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.pyro_app",
+      "package_name": "com.example.app_link",
       "sha256_cert_fingerprints": [
-        "AE:B8:95:DA:F8:FA:5A:7F:AF:E8:46:28:E0:EE:09:DA:99:3F:6B:99:F3:08:2F:49:64:C5:C9:5E:5E:43:24:E1"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.src.breaktime",
-      "sha256_cert_fingerprints": [
-        "ac:31:14:f9:a7:af:3f:5f:45:39:ef:aa:82:11:22:5c:4f:73:5e:4c:23:0a:94:df:5c:b7:71:90:86:95:2b:31"
+        "E5:4F:D2:2C:74:7C:34:45:D0:BA:56:85:73:2F:81:9E:ED:AD:C2:A3:B9:84:F1:0A:83:56:7D:CE:51:40:8D:88"
       ]
     }
   }
